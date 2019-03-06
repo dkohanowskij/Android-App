@@ -1,0 +1,29 @@
+C:\android app\androidApp\androidApp\androidApp\bin\Debug\netstandard2.0\androidApp.deps.json
+C:\android app\androidApp\androidApp\androidApp\bin\Debug\netstandard2.0\androidApp.dll
+C:\android app\androidApp\androidApp\androidApp\bin\Debug\netstandard2.0\androidApp.pdb
+C:\android app\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\android app\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\android app\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.csproj.CoreCompileInputs.cache
+C:\android app\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.AssemblyInfoInputs.cache
+C:\android app\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.AssemblyInfo.cs
+C:\android app\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\android app\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.dll
+C:\android app\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.pdb
+C:\android app\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.csprojAssemblyReference.cache
+C:\android app\androidApp\androidApp\androidApp\bin\Debug\netstandard2.0\TestLib.dll
+C:\android app\androidApp\androidApp\androidApp\bin\Debug\netstandard2.0\TestLib.pdb
+C:\android app\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.csproj.CopyComplete
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\bin\Debug\netstandard2.0\androidApp.deps.json
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\bin\Debug\netstandard2.0\androidApp.dll
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\bin\Debug\netstandard2.0\androidApp.pdb
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\bin\Debug\netstandard2.0\TestLib.dll
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.csproj.CoreCompileInputs.cache
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.AssemblyInfoInputs.cache
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.AssemblyInfo.cs
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.csproj.CopyComplete
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.dll
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.pdb
+C:\FirstTaskDotNetMentoring\androidApp\androidApp\androidApp\obj\Debug\netstandard2.0\androidApp.csprojAssemblyReference.cache
